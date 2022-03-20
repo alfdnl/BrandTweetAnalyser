@@ -6,4 +6,5 @@ A data pipeline project to Analyse Tweets from famous brands in Malaysia.
 
 # Architecture
 The architecure proposed for this project is Lambda Arhictecture. This project requires both real-time and batch processing. With Lambda Architecture, the requirements can be achieved.
+<break>
 ![alt text](https://github.com/alfdnl/BrandTweetAnalyser/blob/main/BrandTweetAnalyzer.drawio.png?raw=true)
